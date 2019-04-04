@@ -25,4 +25,5 @@ function closeApp(){
         .then(()=>process.exit(0));
 }
 
+//Punto de entrada del app
 initDB();
