@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/platzi/nodejsbasico#readme",
   "dependencies": {
-    "nodemon": "^1.18.4",
+    "nodemon": "^1.18.10",
     "socket.io": "^2.1.1"
   }
 }
